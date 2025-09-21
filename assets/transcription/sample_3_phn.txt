@@ -1,0 +1,1 @@
+<DEL>, 'AY', <\DEL>, <SUB>, 'AH', <\SUB>, 'M', 'AH', 'B', 'AH', 'N', 'AE', 'N', 'AH', <SUB>, 'K', <\SUB>, <INS>, 'IH', <\INS>, 'L', 'AH', <SUB>, 'IH', 'R', <\SUB>, <DEL>, 'IY', 'V', <\DEL>, 'IH', 'N', 'DH', 'AH', <SUB>, 'W', 'UH', <\SUB>, <INS>, 'AY', <\INS>, 'D', 'W', 'UH', 'D', 'F', <SUB>, 'UH', 'L', 'IH', <\SUB>, <DEL>, 'S', 'T', <\DEL>

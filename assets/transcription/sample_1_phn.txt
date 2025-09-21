@@ -1,1 +1,0 @@
-'DH', 'EY', 'K', 'AO', 'L', 'M', 'IY', <INS>, 'DH', 'EY', <\INS>, 'G', 'R', 'EY', <DEL>, ‘T’, <\DEL>, 'W', 'AY', <SUB>, 'Z', <\SUB>, 'B', 'IH', 'K', 'AO', 'Z', 'AH', 'V', 'M', 'AY', 'S', 'AY', 'Z'
